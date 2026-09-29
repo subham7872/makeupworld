@@ -1,0 +1,6 @@
+{
+  "name": "Aura Bridal Atelier - Luxury Bridal Makeup & Appointment Booking",
+  "description": "Premium mobile-first bridal makeup artist portfolio, wedding date availability checker, lead capture, and appointment booking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
